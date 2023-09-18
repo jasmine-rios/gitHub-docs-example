@@ -30,13 +30,58 @@ else
 end
 ```
 
-Make note of where the backtick button is located.
-It should appear above the tab key, but it may be based on your keyboard layout.
+- Make note of where the backtick button is located.
+- It should appear above the tab key, 
+- but it may be based on your keyboard layout.
 
 ![Random Picture](https://github.com/jasmine-rios/gitHub-docs-example/assets/93607592/6988fc3b-09d7-4d3e-ab67-bb0e322d8747)
 
 <img width="200px" src="https://github.com/jasmine-rios/gitHub-docs-example/assets/93607592/6988fc3b-09d7-4d3e-ab67-bb0e322d8747" />
 
+Good Cloud Engineers use Codeblocks for both code and errors that appear in the console.
+
 ```bash
 ZeroDivisionError (divided by 0)
 ```
+> Here is an example of using a Codeblock for an error that appears in bash.
+
+## Step 3 - Use Github Flavored Markdown Task lists
+
+Github extends Markdown to have a list where you can check off items. [<sub>[1]<sub/>](#External-References)
+
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [ ] Finish Step 3
+
+## Step 4 - Use Emojis (Optional)
+
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.
+Here are some examples:
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: |
+
+:cloud:
+[<sub>[2]<sub/>](#External-References)
+
+## Step 5 - How to Create a Table
+
+You can use the following markdown format to create tables:
+
+```markdown
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: |
+```
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sub>[3]<sub/>](#external-references)
+
+## External References
+
+- [Github Flavored Markdown Spec](https://github.github.com/gfm/)
+- [Basic Writing and Format Syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sub>[1]<sub/>
+-[GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#emoji-cheat-sheet)<sub>[2]<sub/>
+-[GFM - Tables with Extensions](https://github.github.com/gfm/#tables-extension-)<sub>[3]<sub/>
