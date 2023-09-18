@@ -49,13 +49,13 @@ This is not to be confused with taking a photo with your phone.
 
 **DON'T DO THIS**
 
-![Example of Phone Picture](Example of Phone Picture.jpg)
+![Example of Phone Picture](assets/Example%20of%20Phone%20Picture.jpg)
 
 This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
 
-![Screenshot example](Example of Screenshot.png)
+![Example of Phone Picture](assets/Example%20of%20Screenshot.png)
 
 ## Step 3 - Use Github Flavored Markdown Task lists
 
