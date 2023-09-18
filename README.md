@@ -10,6 +10,7 @@ Because it allows others to copy and paste their code to replicate or research i
 - In order to create Codeblocks in markdown you need to use three backticks (`)
 - Not to be confused with quotation (')
 - When you can you should attempt to apply syntax highlighting to your Codeblocks
+  
 ```ruby
 def factorial(n)
   if n == 0
@@ -41,6 +42,9 @@ ZeroDivisionError (divided by 0)
 ```
 > Here is an example of using a Codeblock for an error that appears in bash.
 
+When you can always provide a Codeblock instead of a screenshot.
+If you need to take a screenshot make sure it is not a photo from your phone.
+
 ## Step 2 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop, or phone.
@@ -57,9 +61,12 @@ This is what a screenshot from your computer should look like
 
 ![Example of Phone Picture](assets/Example%20of%20Screenshot.png)
 
+> There are certain cases where it is okay to take photos with your phone. This is when you are showing something like your keyboard.
+If it renders on your computer screen it should be a screenshot.
+
 ## Step 3 - Use Github Flavored Markdown Task lists
 
-Github extends Markdown to have a list where you can check off items. [<sub>[1]<sub/>](#External-References)
+Github extends Markdown to have a list where you can check off items. <sub>[1]<sub/>
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -76,7 +83,7 @@ Here are some examples:
 | Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: |
 
 :cloud:
-[<sub>[2]<sub/>](#External-References)
+<sub>[2]<sub/>
 
 ## Step 5 - How to Create a Table
 
@@ -88,7 +95,7 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sub>[3]<sub/>](#external-references)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. <sub>[3]<sub/>
 
 - Make note of where the pipe character is located.
 - It should appear above the enter key, 
