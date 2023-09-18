@@ -30,13 +30,9 @@ else
 end
 ```
 
-- Make note of where the backtick button is located.
+- Make note of where the backtick character is located.
 - It should appear above the tab key, 
 - but it may be based on your keyboard layout.
-
-![Random Picture](https://github.com/jasmine-rios/gitHub-docs-example/assets/93607592/6988fc3b-09d7-4d3e-ab67-bb0e322d8747)
-
-<img width="200px" src="https://github.com/jasmine-rios/gitHub-docs-example/assets/93607592/6988fc3b-09d7-4d3e-ab67-bb0e322d8747" />
 
 Good Cloud Engineers use Codeblocks for both code and errors that appear in the console.
 
@@ -44,6 +40,22 @@ Good Cloud Engineers use Codeblocks for both code and errors that appear in the 
 ZeroDivisionError (divided by 0)
 ```
 > Here is an example of using a Codeblock for an error that appears in bash.
+
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop, or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+**DON'T DO THIS**
+
+![Example of Phone Picture](Example of Phone Picture.jpg)
+
+This is what a screenshot from your computer should look like
+
+**DO THIS INSTEAD**
+
+![Screenshot example](Example of Screenshot.png)
 
 ## Step 3 - Use Github Flavored Markdown Task lists
 
@@ -77,6 +89,10 @@ You can use the following markdown format to create tables:
 | Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sub>[3]<sub/>](#external-references)
+
+- Make note of where the pipe character is located.
+- It should appear above the enter key, 
+- but it may be based on your keyboard layout.
 
 ## External References
 
