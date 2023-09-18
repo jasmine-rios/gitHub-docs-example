@@ -101,6 +101,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - It should appear above the enter key, 
 - but it may be based on your keyboard layout.
 
+[Secret Window Hiden Garden](secret-window/hidden-garden.md)
+
 ## External References
 
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/)
